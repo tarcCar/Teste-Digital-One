@@ -4,7 +4,9 @@ Este teste tem a finalidade de filtrar pessoas capacitadas para a vaga de desenv
 
 ### Teste Back-end
 
-* Utilizar PHP de preferência utilizar [Codeigniter](https://codeigniter.com/) ou [NodeJS](https://nodejs.org/) 
+* Utilizar PHP ou [NodeJS](https://nodejs.org/).
+
+* Se for Utilizar PHP de a preferência para utilizar o framework [Codeigniter](https://codeigniter.com/)
 
 * Criar uma API REST que retorne posts com os seguintes campos.
  
