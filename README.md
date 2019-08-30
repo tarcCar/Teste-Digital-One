@@ -36,8 +36,8 @@ Este teste tem a finalidade de filtrar pessoas capacitadas para a vaga de desenv
 
 > Para criar o as telas está liberado o uso de bibliotecas e ou ate templates como Admin LTE, CoreUI, SB Admin e outros.
 
-> Qualquer dúvida manda e-mail para contato@digitalone.com.br
+> Qualquer dúvida manda e-mail para tarcisio@digitalone.com.br
 
 > Lembre-se de fazer pequenos Commits para que possamos acompanhar a sua linha de raciocínio. 
 
-> Ao concluir ou chegar a data limite envie para contato@digitalone.com.br
+> Ao concluir ou chegar a data limite envie para tarcisio@digitalone.com.br
